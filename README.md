@@ -1,3 +1,5 @@
+**About me**
+
 - 👋 Hi, I am Agustí Conesa
 - 👀 I am specialized in back-end development, more concretely with Python and Django
 - 💞️ I love thinking about how to improve the user experience and being able to implement it with technology
