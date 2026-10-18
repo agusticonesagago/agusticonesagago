@@ -1,9 +1,10 @@
 **About me**
 
 - 👋 Hi, I am Agustí Conesa
-- 👀 I am specialized in back-end development, more concretely with Python and Django
-- 💞️ I love thinking about how to improve the user experience and being able to implement it with technology
-- 🌱 I am learning AWS and diving into building machine learning solutions in the cloud
+- 👀 Software Engineer Team Lead. I build backend and machine learning systems in Python, from POC to production on AWS
+- 💞️ I care about product and user experience, and about turning that into software people can actually use
+- 🌱 Growing as an engineering lead: mentoring teams and shipping ML products that scale
+- 🤖 Building my first CAG and RAG agents, already seeing impact, and learning how to deploy them
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agust%C3%AD-conesa-45288b167/) or agusticonesagago@gmail.com
 
 <!---
@@ -14,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 💻 **Open source work stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusticonesagago&show_icons=true&theme=tokyonight)
-
